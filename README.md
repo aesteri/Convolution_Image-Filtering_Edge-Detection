@@ -17,6 +17,6 @@ Get a JPG image in the same directory and rename it to xyz.jpg
 * Laplacian filter
 * Gaussian filter
 
-* 
+  
 ##  Libraries:
 * numpy
