@@ -2,8 +2,8 @@ import os
 import math
 import numpy as np
 from PIL import Image
-gaussian_filter = __import__('2024-81236-HW1_2_1').gaussian_filter 
-convolve2d = __import__('2024-81236-HW1_2_1').convolve2d 
+gaussian_filter = __import__('1_2_1').gaussian_filter 
+convolve2d = __import__('1_2_1').convolve2d 
 def sobel_filter(image):
     """
     Args:
